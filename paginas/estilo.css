@@ -1,0 +1,198 @@
+body{
+background:#BEB7B7;
+}
+
+#afuera{
+color: black;
+font-family: "Myriad Pro";
+font-size:40px;
+font-weight:bold;
+text-align:center;
+}
+
+#principal{
+background:#F7B699;
+width:800px;
+border:1px solid #000000;
+margin:0 auto;
+height:650px;
+text-align:center;
+}
+
+.button.orange{
+background:#F54F06;
+box-shadow:0px 3px 0px #b55704;
+color: black;
+}
+
+.button.medium{
+width:750px;
+border-radius:5px;
+}
+
+.button{
+background:#00FF00;
+color:#fff;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0px;
+text-align:center;
+width:200px;
+text-decoration:none;
+box-shadow:10px 5px #266792;
+background:#3498db;
+border-radius:50px;
+}
+
+.button10{
+background:#00FF00;
+color:#fff;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0px;
+text-align:center;
+width:200px;
+text-decoration:none;
+box-shadow:10px 5px #266792;
+background:#3498db;
+border-radius:50px;
+}
+
+.button10:hover{
+background-color:#0AA8F7;
+}
+
+.button5:hover{
+background-color:#0AA8F7;
+}
+
+#cuadro{
+width:700px;
+height:400px;
+border:1px solid #000000;
+margin:50px auto;
+background:#B0F798;
+}
+
+#scuadro{
+width:600px;
+height:500px;
+margin:50px auto;
+background:#B0F798;
+line-height:25px;
+}
+
+#tcuadro{
+width:600px;
+height:500px;
+margin:50px auto;
+background:#B0F798;
+line-height:25px;
+}
+
+.{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.button5{
+background:#00FF00;
+color:#fff;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0px;
+text-align:center;
+width:200px;
+text-decoration:none;
+box-shadow:10px 5px #266792;
+background:#3498db;
+border-radius:50px;
+}
+
+.form{
+width: 400px;
+background:#8FD6EF;
+padding: 30px;
+margin: auto;
+margin-top; 100px;
+border-radius:50px;
+font-family:´calibri´;
+color: white;
+}
+
+.form h4{
+font-size: 22px;
+margin-bottom:20px;
+color: black;
+}
+.form h6{
+color: black;
+}
+
+.control{
+width: 100%;
+background:#24303c
+padding: 10;
+border-radius: 4px;
+margin-bottom: 16px;
+border: 1px solid 1f535;
+font-family: ´calibri´;
+font-size: 18px;
+}
+
+.form a{
+color: white;
+text-decoration: none;
+}
+
+.form a:hover{
+color: white;
+text-decoration: underline;
+}
+
+.form  .enviar{
+width: 100%;
+background: #326DF6;
+border: none;
+padding: 12px;
+color: white;
+margin: 16px 0;
+font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
